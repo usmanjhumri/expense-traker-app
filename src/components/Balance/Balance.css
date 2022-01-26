@@ -1,0 +1,9 @@
+.CurrentBalance{
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+}
+.currentbalance{
+    letter-spacing: 1px;
+    text-align: center;
+}

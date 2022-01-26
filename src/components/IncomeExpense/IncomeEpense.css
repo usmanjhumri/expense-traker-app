@@ -1,0 +1,52 @@
+.incomeEexpensebox{
+    /* width: 100%;
+    height: 100px;
+    background-color: #fff;
+    box-shadow: var(--box-shadow); */
+    flex: 1 1;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* margin: 30px ; */
+    text-align: center;
+    border-right: 1px solid #dedede; ;
+}
+.flex{
+    /* flex: 1 1; */
+    justify-content: space-between;
+    /* width: 100%; */
+    height: 100px;
+    background-color: #fff;
+    box-shadow: var(--box-shadow);
+    display: flex;
+    margin: 20px;
+    padding: 20px;
+    /* text-align: center; */
+}
+.incomewala{
+    margin: 0;
+    
+    text-transform: uppercase;
+}
+.incomewalatwo{
+    margin: 0;
+    
+    text-transform: uppercase;
+}
+.incomewalaamount{
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #2da3ad;
+    font-weight: 700;
+    
+}
+.incomewalaamounttwo{
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: #b6960a;
+    font-weight: 700;
+    
+}
+.incomeEexpenseboxtwo{
+    flex: 1 1;
+    text-align: center;
+}
